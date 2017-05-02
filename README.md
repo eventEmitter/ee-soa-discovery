@@ -1,5 +1,7 @@
 # ee-soa-discovery
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-discovery.svg)](https://greenkeeper.io/)
+
 Basic SOA Discovery implementation. Discovery implementations shoud inherit from this class
 
 ## installation
